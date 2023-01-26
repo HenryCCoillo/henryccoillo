@@ -6,7 +6,6 @@
   
 
 I'm Henry Ccoillo, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
-<br/>   
  
 ![Profile views counter](https://komarev.com/ghpvc/?username=henryccoillo&&style=flat-square)  
 <br/>  
