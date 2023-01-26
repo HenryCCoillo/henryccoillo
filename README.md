@@ -93,23 +93,11 @@ I'm Henry Ccoillo, a full-time full-stack freelance developer 👨‍💻 workin
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=henryccoillo&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryccoillo&hide_border=true&layout=compact" align="center" />
-
-<br/>  
-
+</div
   
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
