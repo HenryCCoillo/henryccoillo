@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
+</div>   -->
   
 
 I'm Henry Ccoillo, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
